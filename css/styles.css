@@ -1,9 +1,15 @@
+/* navbar styles */
+
 nav {
   background-color: #637E90; }
 
 #navName {
   font-family: "ZCOOL XiaoWei", serif;
   font-size: 2rem; }
+
+.social-links{
+  font-size: 1.5rem;
+}
 
 body {
   font-family: "Mulish", sans-serif; }
@@ -118,8 +124,7 @@ body {
     bottom: 60%; } }
 
 /* Resume styles */
-#resume {
-  margin-bottom: 3rem; }
+
 
 .resume .resume-title {
   font-size: 26px;
